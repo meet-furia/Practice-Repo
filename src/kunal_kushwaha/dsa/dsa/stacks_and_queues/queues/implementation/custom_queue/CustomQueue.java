@@ -55,5 +55,4 @@ public class CustomQueue {
         }
         System.out.println("End");
     }
-
 }

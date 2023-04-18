@@ -1,4 +1,4 @@
-package takeuforward.sde_sheet.arrays.gfg;
+package takeuforward.sde_sheet.sde_sheet.arrays.gfg;
 
 public class SecondLargestElement {
     public static void main(String[] args) {

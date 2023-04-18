@@ -1,4 +1,4 @@
-package takeuforward.sde_sheet.arrays.leetcode;
+package takeuforward.sde_sheet.sde_sheet.arrays.leetcode;
 
 public class SetMatrixZeroes {
     public static void main(String[] args) {
