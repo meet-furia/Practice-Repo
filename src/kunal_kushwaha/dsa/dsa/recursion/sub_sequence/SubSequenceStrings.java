@@ -1,6 +1,6 @@
-package kunal_kushwaha.dsa.dsa.recursion.recursion_strings;
+package kunal_kushwaha.dsa.dsa.recursion.sub_sequence;
 
-public class SubSequence {
+public class SubSequenceStrings {
     public static void main(String[] args) {
         subSeq("", "abc");
     }
