@@ -34,6 +34,7 @@ public class DoublyLinkedList {
             tail = head;
         }
 
+        size++;
     }
 
     public void insertLast(int value) {
