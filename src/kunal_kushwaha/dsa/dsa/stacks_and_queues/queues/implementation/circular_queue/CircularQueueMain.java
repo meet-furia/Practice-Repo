@@ -11,6 +11,13 @@ public class CircularQueueMain {
         circularQueue.insert(20);
         circularQueue.insert(25);
 
+        circularQueue.remove();
+        circularQueue.remove();
+        circularQueue.remove();
+
+        circularQueue.remove();
+        circularQueue.remove();
+
         circularQueue.display();
 
         circularQueue.remove();

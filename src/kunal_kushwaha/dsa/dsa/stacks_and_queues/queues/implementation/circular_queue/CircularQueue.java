@@ -3,7 +3,7 @@ package kunal_kushwaha.dsa.dsa.stacks_and_queues.queues.implementation.circular_
 import kunal_kushwaha.dsa.dsa.stacks_and_queues.queues.implementation.custom_queue.QueueException;
 
 public class CircularQueue {
-    private static int DEFAULT_SIZE = 10;
+    private static final int DEFAULT_SIZE = 10;
     protected int[] data;
 
     protected int end = 0;
